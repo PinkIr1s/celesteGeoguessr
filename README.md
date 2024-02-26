@@ -1,2 +1,3 @@
-venv\Scripts\activate
+venv\Scripts\activate 
+\n
 python run.py
