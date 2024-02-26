@@ -1,3 +1,3 @@
-venv\Scripts\activate 
+celesteGeoguessr-main\Scripts\activate 
 
 python run.py
